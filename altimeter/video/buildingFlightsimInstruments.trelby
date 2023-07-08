@@ -1,0 +1,454 @@
+﻿#Version 3
+#Begin-Auto-Completion 
+AutoCompletion/Scene/Enabled:True
+AutoCompletion/Scene/Items:0
+AutoCompletion/Character/Enabled:True
+AutoCompletion/Character/Items:0
+AutoCompletion/Transition/Enabled:True
+AutoCompletion/Transition/Items:12
+AutoCompletion/Transition/Items/1:BACK TO:
+AutoCompletion/Transition/Items/2:CROSSFADE:
+AutoCompletion/Transition/Items/3:CUT TO:
+AutoCompletion/Transition/Items/4:DISSOLVE TO:
+AutoCompletion/Transition/Items/5:FADE IN:
+AutoCompletion/Transition/Items/6:FADE OUT
+AutoCompletion/Transition/Items/7:FADE TO BLACK
+AutoCompletion/Transition/Items/8:JUMP CUT TO:
+AutoCompletion/Transition/Items/9:MATCH CUT TO:
+AutoCompletion/Transition/Items/10:SLOW FADE TO BLACK
+AutoCompletion/Transition/Items/11:SMASH CUT TO:
+AutoCompletion/Transition/Items/12:TIME CUT:
+#End-Auto-Completion 
+#Begin-Config 
+FontSize:12
+Margin/Bottom:25.40
+Margin/Left:38.10
+Margin/Right:25.40
+Margin/Top:12.70
+Paper/Height:297.00
+Paper/Width:210.00
+PageBreakActionLines:2
+PageBreakDialogueLines:2
+SceneContinueds:False
+SceneContinuedIndent:45
+ShowSceneNumbers:False
+IncludeTOC:True
+ShowTOC:True
+OpenOnCurrentPage:True
+RemoveNotes:False
+OutlineNotes:True
+ShowMargins:False
+ShowLineNumbers:False
+Cursor/Line:181
+Cursor/Column:33
+String/MoreDialogue:(MORE)
+String/ContinuedPageEnd:(CONTINUED)
+String/ContinuedPageStart:CONTINUED:
+String/DialogueContinued: (cont'd)
+Element/Scene/BeforeSpacing:10
+Element/Scene/IntraSpacing:0
+Element/Scene/Indent:0
+Element/Scene/Width:60
+Element/Scene/Screen/AllCaps:True
+Element/Scene/Screen/Bold:True
+Element/Scene/Screen/Italic:False
+Element/Scene/Screen/Underlined:False
+Element/Scene/Export/AllCaps:True
+Element/Scene/Export/Bold:False
+Element/Scene/Export/Italic:False
+Element/Scene/Export/Underlined:False
+Element/Action/BeforeSpacing:10
+Element/Action/IntraSpacing:0
+Element/Action/Indent:0
+Element/Action/Width:60
+Element/Action/Screen/AllCaps:False
+Element/Action/Screen/Bold:False
+Element/Action/Screen/Italic:False
+Element/Action/Screen/Underlined:False
+Element/Action/Export/AllCaps:False
+Element/Action/Export/Bold:False
+Element/Action/Export/Italic:False
+Element/Action/Export/Underlined:False
+Element/Character/BeforeSpacing:10
+Element/Character/IntraSpacing:0
+Element/Character/Indent:22
+Element/Character/Width:38
+Element/Character/Screen/AllCaps:True
+Element/Character/Screen/Bold:False
+Element/Character/Screen/Italic:False
+Element/Character/Screen/Underlined:False
+Element/Character/Export/AllCaps:True
+Element/Character/Export/Bold:False
+Element/Character/Export/Italic:False
+Element/Character/Export/Underlined:False
+Element/Dialogue/BeforeSpacing:0
+Element/Dialogue/IntraSpacing:0
+Element/Dialogue/Indent:10
+Element/Dialogue/Width:35
+Element/Dialogue/Screen/AllCaps:False
+Element/Dialogue/Screen/Bold:False
+Element/Dialogue/Screen/Italic:False
+Element/Dialogue/Screen/Underlined:False
+Element/Dialogue/Export/AllCaps:False
+Element/Dialogue/Export/Bold:False
+Element/Dialogue/Export/Italic:False
+Element/Dialogue/Export/Underlined:False
+Element/Parenthetical/BeforeSpacing:0
+Element/Parenthetical/IntraSpacing:0
+Element/Parenthetical/Indent:16
+Element/Parenthetical/Width:25
+Element/Parenthetical/Screen/AllCaps:False
+Element/Parenthetical/Screen/Bold:False
+Element/Parenthetical/Screen/Italic:False
+Element/Parenthetical/Screen/Underlined:False
+Element/Parenthetical/Export/AllCaps:False
+Element/Parenthetical/Export/Bold:False
+Element/Parenthetical/Export/Italic:False
+Element/Parenthetical/Export/Underlined:False
+Element/Transition/BeforeSpacing:10
+Element/Transition/IntraSpacing:0
+Element/Transition/Indent:45
+Element/Transition/Width:20
+Element/Transition/Screen/AllCaps:True
+Element/Transition/Screen/Bold:False
+Element/Transition/Screen/Italic:False
+Element/Transition/Screen/Underlined:False
+Element/Transition/Export/AllCaps:True
+Element/Transition/Export/Bold:False
+Element/Transition/Export/Italic:False
+Element/Transition/Export/Underlined:False
+Element/Shot/BeforeSpacing:10
+Element/Shot/IntraSpacing:0
+Element/Shot/Indent:0
+Element/Shot/Width:60
+Element/Shot/Screen/AllCaps:True
+Element/Shot/Screen/Bold:False
+Element/Shot/Screen/Italic:False
+Element/Shot/Screen/Underlined:False
+Element/Shot/Export/AllCaps:True
+Element/Shot/Export/Bold:False
+Element/Shot/Export/Italic:False
+Element/Shot/Export/Underlined:False
+Element/Note/BeforeSpacing:10
+Element/Note/IntraSpacing:0
+Element/Note/Indent:5
+Element/Note/Width:55
+Element/Note/Screen/AllCaps:False
+Element/Note/Screen/Bold:False
+Element/Note/Screen/Italic:True
+Element/Note/Screen/Underlined:False
+Element/Note/Export/AllCaps:False
+Element/Note/Export/Bold:False
+Element/Note/Export/Italic:True
+Element/Note/Export/Underlined:False
+Element/Act break/BeforeSpacing:10
+Element/Act break/IntraSpacing:0
+Element/Act break/Indent:25
+Element/Act break/Width:10
+Element/Act break/Screen/AllCaps:True
+Element/Act break/Screen/Bold:True
+Element/Act break/Screen/Italic:False
+Element/Act break/Screen/Underlined:True
+Element/Act break/Export/AllCaps:True
+Element/Act break/Export/Bold:False
+Element/Act break/Export/Italic:False
+Element/Act break/Export/Underlined:True
+Font/Bold-Italic/Name:
+Font/Bold-Italic/Filename:
+Font/Bold/Name:
+Font/Bold/Filename:
+Font/Italic/Name:
+Font/Italic/Filename:
+Font/Normal/Name:
+Font/Normal/Filename:
+#End-Config 
+#Begin-Locations 
+Locations:0
+#End-Locations 
+#Begin-Spell-Checker-Dict 
+Words:0
+#End-Spell-Checker-Dict 
+#Title-String 0.000000,105.000000,24,cb,Helvetica,,UNTITLED SCREENPLAY
+#Title-String 0.000000,120.460000,12,c,Courier,,by\n\nMy Name Here
+#Title-String 15.000000,248.460000,12,,Courier,,123/456-7890\nno.such@thing.com
+#Header-String 1,0,r,,${PAGE}.
+#Header-Empty-Lines 1
+#Start-Script 
+._
+.=Total of michi on table
+._MICHI
+|:Hi, and welcome to the simhangar.
+>:In this video I want to show you
+>:how I am building the instruments
+.:for my flight simulator...
+.=Closeup of altimeter
+._MICHI
+.:... Like this altimeter.
+.=Total of michi on table
+._MICHI
+>:Be advised, building instruments
+>:from scratch does involve quite
+>:some work, including learning some
+>:skills and programs, like CAD
+>:software and a bit of programming
+>:for the Arduino part. But that's
+|:DIY, isn't it? ;)
+.:Let's get started...
+.=search on xflight.de and viperpits
+._MICHI
+>:The first thing I do is getting as
+>:much reference pictures and
+|:information as possible.
+>:A great source for the F-16 is of
+>:course Martin Schmitt's site
+|:xflight.de and viperpits.org.
+.:
+.=Total of michi
+._MICHI
+>:A flightsim instrument usually
+>:works like this: You need a way to
+>:get the data the gauge should
+.:display out of the sim software...
+.=Bms grab
+._MICHI
+>:... and then a mechanical /
+>:electrical part to show this value
+>:on the instrument or even get some
+.:inputs from the pilot.
+.=Faceplate of altimeter
+._MICHI
+>:For the altimeter we have the
+|:following indicators:
+>:- current altitude in hundreds of
+|:feet
+|:- needle from zero to 1000 feet
+|:- barometric settings
+>:- PNEU flag to display pneumatic
+|:operation
+|:
+>:As inputs we have the altimeter
+>:knob on the bottom left to change
+>:the barometric settings and the
+>:PNEUswitch to change between
+|:electric and pneumatic operation.
+|:
+>:Once all those indicators and
+>:inputs are identified I think about
+>:how to realize those mechanically
+.:and electronically.
+.=Shot of stepper motor rotating flag
+._MICHI
+>:For the needle we need a motor that
+>:let's us set it's shaft position
+|:and not rotate the whole time.
+>:The most common ones used are
+>:steppers and servos and sind servos
+>:can only rotate about 180 degrees
+>:I'm using a stepper motor to drive
+.:the needle.
+.=Needle rotating, hundreds switching
+._MICHI
+>:In the real instrument, the
+>:needleshaft is coupled to the
+>:hundreds indicator, so a full
+>:resolution of the needle turns the
+|:hundreds wheel one position.
+>:Since I'm salvagin a real altimeter
+>:I would even have the hundreds
+.:drum...
+.=Altimeter parts disassembled
+._MICHI
+>:...but I never found a fast way to
+|:reset the drum to zero.
+>:So I decided to use 7segment
+>:displays for the drum and the
+|:barometric settings indicator.
+|:
+>:Finally there's the flag that
+>:displays the pneumatic operation
+>:which I wanted to realize with a
+>:servomotor that turns the flag from
+|:0 - 90 degrees.
+|:
+>:As input devices I decided to use a
+>:rotary encoder for the altimeter
+>:setting and a toggleswitch for the
+.:PNEU switch.
+.=Arduino nano and max board
+._MICHI
+>:To drive all those motors and
+>:displays I'm using an Arduino Nano
+|:and a MAX7219 LED driver chip.
+>:Since the Nano has much more I/O
+>:pins than needed for the altimeter,
+>:I decided to use it also for other
+>:instruments on the center console,
+.:too.
+.=Center console with highlighting the parts
+._MICHI
+>:So this Arduino will also drive the
+>:VVI, the AOA and the ASI gauge as
+.:well as the MarkerBeacon light.
+.=Breadboarding shot
+._MICHI
+>:Once I decided on the hardware I
+>:often build some prototypes on a
+>:breadboard and begin with the
+|:programming of the Arduino.
+>:If I can't get the electronics to
+>:work as I want it, there's no need
+.:to build the hardware for it.
+.=freecad
+._MICHI
+>:If the prototype works, it will be
+>:time to build the whole thing in
+|:FreeCAD.
+>:This way I can identify errors in
+>:my thinking before I run into
+>:problems when assembling the 3d
+|:printed parts.
+>:This is not going to be a CAD
+>:tutorial but one thing that helped
+|:me a lot was using a MasterSketch.
+>:All the important features are
+>:drawn on this sketch and can be
+>:referenced on a clone of it on each
+.:part you're designing.
+.=Altimeter parts in cad
+._MICHI
+>:I design my instruments all the
+>:same way - a frontplate with the
+>:glass to screw to the console and a
+>:backpart that connects to this
+>:frontplate with all the rest of the
+|:instrument.
+>:Here's how I structured the
+|:altimeter:
+|:- the frontplate
+>:- inside there's the glass and a
+>:spacer to let the needle move
+|:freely
+>:- the faceplate with the numbers on
+>:it is the first plate of the second
+|:part
+>:- a stepperplate to hold the motor
+>:to drive the needle and the
+|:zeroizing sensor
+>:- a servorplate to hold the motor
+|:for the PNEU flag
+>:- a plate with the MAX7219 LED
+>:driver chip and connectors for the
+|:displays
+>:- the Arduino plate with a Nano
+|:Extensionshield
+|:- a connectorplate at the back
+>:All the plates are connected by 3mm
+.:standoffs in the correct length.
+.=3d printing shot
+._MICHI
+>:All plates are first printed in a
+>:very low resolution just to see, if
+|:all components fit properly.
+>:If everything works out, all cables
+>:get soldered and painted and the
+.:plates mounted together.
+.=Title "The components"
+.=Freecad or real shot of each plate
+._MICHI
+|:---- Use original parts video ---
+>:The frontplate is quite an easy
+>:part. In the 4 corners are the
+.:holes for the mounting screws.
+.=Inserts into faceplate
+._MICHI
+>:The 8 small screws arount the
+>:perimeter screw into inserts of the
+>:faceplate to hold everything
+.:together.
+.=Faceplate
+._MICHI
+>:The faceplate holds the displays,
+>:the PNEU flag and of course the
+|:numberplate. 
+>:A 5mm hole in the back holds a
+>:small ballbearing which supports
+.:the needle shaft on the front.
+.=Stepperplate (Freecad with each component)
+._MICHI
+>:The stepperplate holds (of course)
+>:the x27 stepper, but also the
+>:sensor to seroize the needle and
+|:the encoder for the barometer knob.
+>:It also has some holes for cable
+>:routing, a small hole for the PNEU
+>:flag shaft and a 5mm hole for the
+>:second ball bearing of the
+|:needleshaft.
+>:To make the stepper fast enough to
+>:keep up with the simulation, a 2:1
+.:gearing has been implemented.
+.=Needleshaft
+._MICHI
+>:On the front and back of the
+>:needleshaft are the 2 ballbearings,
+>:in the middle is the sensor flag
+>:and of course there's the small
+.:gear to drive the needle.
+.=Servoplate
+._MICHI
+>:The next plate is the servoplate
+>:which drives the PNEU flag on the
+|:front.
+>:Also, there's a toggleswitch which
+>:is activated by the PNEU switch at
+|:the front.
+>:When I designed my altimeter I
+>:failed in my research for this
+>:switch because the real thing is
+>:momentarily to both sides and does
+|:not stay in position like mine.
+>:Maybe I will change this in the
+>:future, once it's implemented in
+.:BMS.
+.=Max plate
+._MICHI
+>:Driving the LEDs is done by a
+>:MAX7219 chip. I first wanted to
+>:build a DIY PCB for it but then I
+>:remembered that I had some of those
+|:LED array displays laying around.
+>:Removing the display was easy, now
+>:I just had to build a small
+>:breakoutboard where the displays
+.:could connect to.
+.=Nano plate
+._MICHI
+>:Like for the display driver I chose
+>:to use one of many Nano Extension
+>:Shields I had instead of building a
+>:pcb myself. It has all the pins on
+>:pin headers which makes connecting
+>:and disassembling of the unit quite
+.:easy.
+.=Connector plate
+._MICHI
+|:On the back are 5 connectors:
+|:- The USB connection to the Arduino
+>:- 3 connectors to the other
+|:instruments driven by the Nano
+|:- a 5V input connector
+>:To keep the Nano from maxing out on
+>:it's amps, the MAX7219 and 3 other
+>:instruments are getting their five
+>:volts from a seperate powersupply
+|:and not from the Arduino.
+>:So I mounted a small breakout board
+>:at the other side for all the 5V
+|:connections.
+>:All the green/yellow cabling goes
+>:to the corresponding pins on the
+>:Nano with the signal for the servor
+.:motors of the other gauges.
+.=Assembling the altimeter.
+._MICHI
+.:*** Text from original video ***
