@@ -9,13 +9,20 @@ Other instruments, once finished, will be added to this list.
 [ALTIMETER](https://github.com/mihi4/F-16Altimeter)
 (own repo because added before)
 
+***
 
-  
+[<img src="pics/vvi.png" width=100 />](vvi_aoa)  
 [VVI/AOA](vvi_aoa)
+
+***
 
 [HYDPRESS](hydpress)
 
+***
+
 [FQI](fuelgauge)
+
+***
 
 If you would like the files and my work and want to support me/say thankyou with an icecream, coffee or pizza, you can use paypal.me to to so ;)  
 [Paypal.me](https://paypal.me/MichiHirczy)
