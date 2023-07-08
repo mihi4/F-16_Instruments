@@ -5,8 +5,12 @@ The Arduino part is in seperate repositories, since one Arduino controls more in
 
 Other instruments, once finished, will be added to this list.
 
-[ALTIMETER](https://github.com/mihi4/F-16Altimeter) (own repo because added before)
+[<img src="https://github.com/mihi4/F-16Altimeter/raw/main/pics/altimeter.jpg" width=100 />](https://github.com/mihi4/F-16Altimeter)  
+[ALTIMETER](https://github.com/mihi4/F-16Altimeter)
+(own repo because added before)
 
+
+  
 [VVI/AOA](vvi_aoa)
 
 [HYDPRESS](hydpress)
