@@ -25,6 +25,10 @@ Other instruments, once finished, will be added to this list.
 
 ***
 
-If you would like the files and my work and want to support me/say thankyou with an icecream, coffee or pizza, you can use paypal.me to to so ;)  
+## !!! Use those files at your own risk !!!
+
+All the files are free to use under the GNUGPLv3
+
+If you find those files useful and would like to support me with an icecream, coffee or pizza, you can use paypal.me to to so ;)  
 [Paypal.me](https://paypal.me/MichiHirczy)
 
