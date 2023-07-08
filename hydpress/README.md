@@ -9,3 +9,9 @@ Detailed infos on my website:
 [Part 1](http://f16simulator.net/wp/en/2023/06/05/hyd-press-gauges-done/)  
 [Part 2](http://f16simulator.net/wp/en/2023/06/09/hyd-press-cluster-finally-done/)
 
+## !!! Use those files at your own risk !!!
+
+All the files are free to use under the GNUGPLv3
+
+If you would like to support me with an icecream, coffee or pizza, you can use paypal.me to to so ;)  
+[Paypal.me](https://paypal.me/MichiHirczy)
