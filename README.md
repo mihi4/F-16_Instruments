@@ -1,6 +1,9 @@
 # Instruments used in my F-16 Simulator
 
-This repository has been created to hold all the files I used to create the instrument's hardware for my <a href="http://f16simulator.net" target="_blank">F-16 Simulator</a>
+This repository has been created to hold all the files I used to create the instrument's hardware for my [F-16 simulator](http://f16simulator.net)  
+The Arduino part is in seperate repositories, since one Arduino controls more instruments. Those repos are linked in the README of each instrument.
+
+Other instruments, once finished, will be added to this list.
 
 [ALTIMETER](https://github.com/mihi4/F-16Altimeter) (own repo because added before)
 
