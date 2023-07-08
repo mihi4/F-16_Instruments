@@ -1,6 +1,6 @@
 # Instruments used in my F-16 Simulator
 
-H
+This repository has been created to hold all the files I used to create the instrument's hardware for my <a href="http://f16simulator.net" target="_blank">F-16 Simulator</a>
 
 [ALTIMETER](https://github.com/mihi4/F-16Altimeter) (own repo because added before)
 
