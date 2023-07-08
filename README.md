@@ -29,6 +29,6 @@ Other instruments, once finished, will be added to this list.
 
 All the files are free to use under the GNUGPLv3
 
-If you find those files useful and would like to support me with an icecream, coffee or pizza, you can use paypal.me to to so ;)  
+If you find those files useful and would like to support me with an icecream, coffee or pizza, you can use paypal.me to do so ;)  
 [Paypal.me](https://paypal.me/MichiHirczy)
 
