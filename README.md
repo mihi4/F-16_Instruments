@@ -15,11 +15,12 @@ Other instruments, once finished, will be added to this list.
 [VVI/AOA](vvi_aoa)
 
 ***
-
+[<img src="pics/hydpress.png" width=100 />](hydpress)  
 [HYDPRESS](hydpress)
 
 ***
 
+[<img src="pics/fqi.png" width=100 />](fuelgauge)  
 [FQI](fuelgauge)
 
 ***
