@@ -7,8 +7,8 @@ Hardware used:
 - 2 SG90/9g miniservo per instrument (1 for the needle, 1 for the OFF-flag)
 
 Info on my website:  
-[VVI](http://f16simulator.net/wp/en/2022/11/10/vvi-progress/)  
-[AOA](http://f16simulator.net/wp/en/2022/11/27/aoa-indicator-started/)
+[VVI](https://f16simulator.net/wp/en/2022/11/10/vvi-progress/)  
+[AOA](https://f16simulator.net/wp/en/2022/11/27/aoa-indicator-started/)
 
 ## !!! Use those files at your own risk !!!
 
