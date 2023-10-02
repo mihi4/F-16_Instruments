@@ -7,7 +7,7 @@ Parts used:
 - 1 CL2351AW 5-digit-7segment-display (CommonCathode, 0.23" white)
 
 Info on my website:  
-[FQI](http://f16simulator.net/wp/en/2023/07/07/fuelquantityindicator-in-the-works/)
+[FQI](https://f16simulator.net/wp/en/2023/07/07/fuelquantityindicator-in-the-works/)
 
 ## !!! Use those files at your own risk !!!
 
