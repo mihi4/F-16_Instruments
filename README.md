@@ -25,6 +25,11 @@ Other instruments, once finished, will be added to this list.
 
 ***
 
+[<img src="pics/epufuel.png" width=100 />](fuelgauge)  
+[EPU FUEL](epuFuel)
+
+***
+
 ## !!! Use those files at your own risk !!!
 
 All the files are free to use under the GNUGPLv3
