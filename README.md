@@ -25,8 +25,13 @@ Other instruments, once finished, will be added to this list.
 
 ***
 
-[<img src="pics/epufuel.png" width=100 />](fuelgauge)  
+[<img src="pics/epufuel.png" width=100 />](epuFuel)  
 [EPU FUEL](epuFuel)
+
+***
+
+[<img src="pics/cp.png" width=100 />](cautionPanel)  
+[CautionPanel](cautionPanel)
 
 ***
 
