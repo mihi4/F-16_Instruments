@@ -1,6 +1,6 @@
 # Instruments used in my F-16 Simulator
 
-This repository has been created to hold all the files I used to create the instrument's hardware for my [F-16 simulator](http://f16simulator.net)  
+This repository has been created to hold all the files I used to create the instrument's hardware for my [F-16 simulator](https://f16simulator.net)  
 The Arduino part is in seperate repositories, since one Arduino controls more instruments. Those repos are linked in the README of each instrument.
 
 Other instruments, once finished, will be added to this list.
