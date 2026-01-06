@@ -6,8 +6,6 @@ Parts used:
 - 2 SG90/9g miniservos
 - 1 CL2351AW 5-digit-7segment-display (CommonCathode, 0.23" white)
 
-## Those files are draft versions, complete files will be uploaded at the beginning of April.
-
 Info on my website:  
 [FQI](https://f16simulator.net/wp/en/2023/07/07/fuelquantityindicator-in-the-works/)
 
