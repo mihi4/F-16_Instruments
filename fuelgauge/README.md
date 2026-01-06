@@ -1,6 +1,6 @@
 # FUEL QTY Gauge
 
-The whole FUEL QTY Gauge is driven by the [BMSAIT-RightAuxConsole](https://github.com/mihi4/F-16_BMSAITRightAUX)
+The whole FUEL QTY Gauge is driven by the ~~[BMSAIT-RightAuxConsole](https://github.com/mihi4/F-16_BMSAITRightAUX)~~ [IOController](https://github.com/mihi4/F-16_IOController)
 
 Parts used:
 - 2 SG90/9g miniservos
