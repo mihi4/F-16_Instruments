@@ -1,0 +1,30 @@
+# Units and output format
+metric=true
+metricoutput=true
+zero-start=true
+# Safety heights
+zsafe=2.0
+zchange=10.0
+# Input files (uncomment and modify for your project)
+#back=board-B_Cu.gbr
+#drill=board.drl
+#outline=board-Edge_Cuts.gbr
+# Isolation milling parameters
+zwork=-0.1
+mill-feed=400
+mill-speed=10000
+mill-diameters=0.2
+isolation-width=0.5
+extra-passes=1
+# Drilling parameters
+zdrill=-2.0
+drill-feed=100
+drill-speed=10000
+# Board cutout parametersz
+cut=-1.8
+cutter-diameter=1.0
+cut-feed=100
+cut-speed=10000
+cut-infeed=0.5
+# Output optimization
+optimise=true
