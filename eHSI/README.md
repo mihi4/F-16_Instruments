@@ -1,5 +1,7 @@
 ### eHSI
 
+All the parts are designed with FreeCAD, you can modify the files as you like.  
+
 I'm using the following additional parts to build the eHSI:  
 
 Display: [3.5" 640x480 LCD from Ali](https://www.aliexpress.com/item/1005007806914783.html) (Search for "3.5 inch LCD", if the link expired)  
