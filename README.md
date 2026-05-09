@@ -11,6 +11,11 @@ Other instruments, once finished, will be added to this list.
 
 ***
 
+[<img src="pics/eHSI.png" width=100 />](eHSI)  
+[eHSI](eHSI)
+
+***
+
 [<img src="pics/vvi.png" width=100 />](vvi_aoa)  
 [VVI/AOA](vvi_aoa)
 
