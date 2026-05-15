@@ -16,6 +16,11 @@ Other instruments, once finished, will be added to this list.
 
 ***
 
+[<img src="pics/rwr.png" width=100 />](rwr)  
+[RWR](rwr)
+
+***
+
 [<img src="pics/vvi.png" width=100 />](vvi_aoa)  
 [VVI/AOA](vvi_aoa)
 
